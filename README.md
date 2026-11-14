@@ -56,6 +56,8 @@ Use landscape mode on phones. On lower-powered devices choose LOW visuals to red
 
 ## Verify
 
+For permanent server requirements and Docker commands, see [HOSTING.md](HOSTING.md).
+
 From the game project directory:
 
 ```bat
